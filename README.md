@@ -1,6 +1,6 @@
 # Taller MYSQL Karen Cristancho
 
-## Ejercicios SQL
+## Ejercicios SQLDP
 
 ### 1. **Primer ejercicio**
 
